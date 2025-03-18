@@ -20,16 +20,6 @@ Permite ingresar los nombres de los participantes y, con un solo clic, genera al
 - CSS
 - JavaScript
 
-## 📂 Estructura del proyecto
-
-```
-/assets         → Imágenes o recursos adicionales  
-index.html      → Página principal  
-style.css       → Estilos  
-app.js          → Lógica del sorteo  
-```
-
-
 ## Cómo usar
 
 1. Descarga el repositorio o clónalo:
@@ -38,5 +28,9 @@ app.js          → Lógica del sorteo
    ```
 2. Abre el archivo `index.html` en tu navegador.
 3. ¡Listo para sortear!
+
+
+## 🚀 Ver el sitio en línea
+👉 [https://luccii591.github.io/challenge_SecretFriend/](https://luccii591.github.io/challenge_SecretFriend/)
 
 
