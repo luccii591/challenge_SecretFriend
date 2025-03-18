@@ -19,3 +19,15 @@ function agregarAmigo() {
   // Volvemos a mostrar la lista actualizada
   mostrarLista();
 }
+
+
+function mostrarLista() {
+  const ul = document.getElementById('listaAmigos');
+  ul.innerHTML = ""; // Limpia la lista actual
+
+  listaDeAmigos.forEach(function (amigo) {
+    const li = document.createElement('li');
+    li.textContent = amigo;
+    ul.appendChild(li);
+  });
+}
